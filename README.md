@@ -1,3 +1,21 @@
+
+## Tinder-clone 🚀 🚀 🚀
+Live Demo 👉 https://tinder-clone-35d25.web.app/
+
+<details open="open">
+  <summary>Tools/Packages</summary>
+  <ul><li>React.Js</li>
+     <li>React-Swipe-left-right-functionality</li>
+    <li>CSS-3</li>
+    <li>HTML-5</li>
+    <li>Firebase</li>
+    <li>material-UI/Icon</li>
+     <li>Real-time-chat-functionality</li>
+    
+  </ul>
+</details>
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
