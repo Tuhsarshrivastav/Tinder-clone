@@ -2,6 +2,9 @@
 ## Tinder-clone 🚀 🚀 🚀
 Live Demo 👉 https://tinder-clone-35d25.web.app/
 
+![Screenshot from 2021-03-07 10-00-01](https://user-images.githubusercontent.com/74534919/110229024-291d3280-7f2c-11eb-9366-b2b70678796b.png)
+
+
 <details open="open">
   <summary>Tools/Packages</summary>
   <ul><li>React.Js</li>
